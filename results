@@ -1,0 +1,25 @@
+                                                    200 lines
+Nearest Neighbors score: 0 ROC AUC: 0.51
+Linear SVM score: 0 ROC AUC: 0.59
+RBF SVM score: 0 ROC AUC: 0.65
+Gaussian Process score: 0 ROC AUC: 0.50
+Random Forest score: 0 ROC AUC: 0.57
+Neural Net score: 0 ROC AUC: 0.64
+AdaBoost score: 0 ROC AUC: 0.41
+Naive Bayes score: 0 ROC AUC: 0.35
+/sgoinfre/goinfre/Perso/pdespres/anaconda3/lib/python3.6/site-packages/sklearn/discriminant_analysis.py:682: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+QDA score: 0 ROC AUC: 0.55
+
+                                                    2000 lines
+Nearest Neighbors score: 0.55 ROC AUC: 0.52
+Linear SVM score: 0.69 ROC AUC: 0.73
+RBF SVM score: 0.68 ROC AUC: 0.72
+Gaussian Process score: 0.57 ROC AUC: 0.50
+Random Forest score: 0.62 ROC AUC: 0.66
+Neural Net score: 0.57 ROC AUC: 0.50
+AdaBoost score: 0.62 ROC AUC: 0.66
+Naive Bayes score: 0.65 ROC AUC: 0.67
+/sgoinfre/goinfre/Perso/pdespres/anaconda3/lib/python3.6/site-packages/sklearn/discriminant_analysis.py:682: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+QDA score: 0.51 ROC AUC: 0.50
